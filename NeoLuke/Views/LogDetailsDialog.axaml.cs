@@ -3,6 +3,7 @@ using Avalonia.Interactivity;
 using NeoLuke.Models.Logging;
 using System;
 using System.Text;
+using Avalonia.Input.Platform;
 
 namespace NeoLuke.Views;
 
